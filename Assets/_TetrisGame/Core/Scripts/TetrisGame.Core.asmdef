@@ -1,0 +1,16 @@
+{
+    "name": "TetrisGame.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:892c2ce70e70547438f4b995385c6a4e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
