@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_TetrisGame/Core/Assets/Scenes/CoreScene.unity
     guid: 833db0922f2cf934aa3852009f196ac8
+  - enabled: 1
+    path: Assets/_TetrisGame/Core/Game/Assets/Scenes/GameScene.unity
+    guid: 259d99bf2e86d9b45b53e46b5debc22e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
